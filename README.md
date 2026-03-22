@@ -41,13 +41,13 @@ Finance teams spend hours each month manually comparing budget vs actual spend i
 
 ## Dashboard Features
 
-- **4 KPI Cards** — Total Budget, Total Actual, Variance, YE Forecast
-- **Line & Clustered Column Chart** — Monthly Budget vs Actual with Variance line overlay
-- **Donut Chart** — Annual actual spend split by department
-- **RAG Status Table** — Conditional formatting (Green/Amber/Red) with variance % per department
-- **Waterfall Chart** — Variance drivers by department (red = over, green = under)
-- **Quarterly Slicer** — Q1/Q2/Q3/Q4 dynamic filtering
-- **Month Slicer** — Filter by individual month
+- **4 KPI Cards** - Total Budget, Total Actual, Variance, YE Forecast
+- **Line & Clustered Column Chart** - Monthly Budget vs Actual with Variance line overlay
+- **Donut Chart** - Annual actual spend split by department
+- **RAG Status Table** - Conditional formatting (Green/Amber/Red) with variance % per department
+- **Waterfall Chart** - Variance drivers by department (red = over, green = under)
+- **Quarterly Slicer** - Q1/Q2/Q3/Q4 dynamic filtering
+- **Month Slicer** - Filter by individual month
 
 ---
 
@@ -56,7 +56,7 @@ Finance teams spend hours each month manually comparing budget vs actual spend i
 | Tool | Purpose |
 |---|---|
 | Power BI Desktop | Dashboard design and visualisation |
-| Excel | Data source — flat table structure |
+| Excel | Data source - flat table structure |
 | DAX | Calculated measures and formatting |
 | Power Query | Data transformation and column typing |
 
@@ -97,7 +97,7 @@ The data is structured in **flat/long format** — the correct format for Power 
 - RAG status reporting for management packs
 - Year-end forecasting
 - Power BI dashboard design (DAX, Power Query, conditional formatting)
-- Data modelling — flat table structure for BI tools
+- Data modelling - flat table structure for BI tools
 - Management reporting for senior stakeholders
 
 ---
